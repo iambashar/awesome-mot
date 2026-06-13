@@ -4,7 +4,7 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
-[![Last commit](https://img.shields.io/github/last-commit/mkbashar/awesome-mot-review.svg)](https://github.com/mkbashar/awesome-mot-review/commits)
+[![Last commit](https://img.shields.io/github/last-commit/iambashar/awesome-mot-review.svg)](https://github.com/iambashar/awesome-mot-review/commits)
 
 Every entry is mapped to a section of the survey so the two can be read together. Where a paper ships official code, the row links it and is marked ✅. This list is maintained alongside the survey and updated as the field develops.
 
